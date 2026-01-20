@@ -1,0 +1,6 @@
+{
+  "Name": "ModuloB_SistemaNewsletter_Performer",
+  "ProjectType": "Process",
+  "Description": "- Capturar cada notícia identificada na etapa anterior.\r\n- Baseado no tema da notícia, direcione para ao menos 2 grupos de e-mail. Exemplo: Tema de Tecnologia é\r\ndirecionado para um grupo. Demais notícias para outro grupo.\r\n- A forma que você armazenará os grupos de e-mail é livre, mas não deve estar no código do projeto, de forma que\r\nseja fácil acrescentar ou excluir novos destinatários.",
+  "MainFile": "Main.xaml"
+}
