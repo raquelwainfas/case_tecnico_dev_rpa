@@ -1,0 +1,6 @@
+{
+  "Name": "ModuloA_SistemaNewsletter_Dispatcher",
+  "ProjectType": "Process",
+  "Description": "- Acesse https://news.yahoo.com e extraia as 5 notícias do bloco 'Stories for you'.\r\n- Salve os dados em news_raw_<DATA>.csv com os campos: titulo, resumo, tema, fonte, tempo_leitura.\r\n- Normalize os dados (remoção de caracteres inválidos, padronização).\r\n- Publique os itens em uma ou mais queues de acordo com a necessidade que você entender.",
+  "MainFile": "Main.xaml"
+}

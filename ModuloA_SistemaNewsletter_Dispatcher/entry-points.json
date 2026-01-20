@@ -1,0 +1,46 @@
+{
+  "$schema": "https://cloud.uipath.com/draft/2024-12/entry-point",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "a2337d47-b597-4f6a-9a45-909f32a2c8cd",
+      "type": "process"
+    },
+    {
+      "filePath": "Workflows\\CapturaNoticias.xaml",
+      "uniqueId": "f285d710-4127-4cc4-b5d4-ec0c9287e582",
+      "type": "process",
+      "input": {
+        "type": "object",
+        "properties": {
+          "io_dtNoticias": {
+            "type": "array",
+            "items": {
+              "type": "object"
+            }
+          },
+          "in_urlBase": {
+            "type": "string"
+          },
+          "in_LimiteNoticias": {
+            "type": "integer",
+            "minimum": -2147483648,
+            "maximum": 2147483647
+          }
+        },
+        "required": []
+      },
+      "output": {
+        "type": "object",
+        "properties": {
+          "io_dtNoticias": {
+            "type": "array",
+            "items": {
+              "type": "object"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
