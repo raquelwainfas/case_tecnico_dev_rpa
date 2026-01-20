@@ -1,0 +1,72 @@
+[
+  {
+    "timestamp": "20/01/2026 14:16:47.098",
+    "nivel": "Info",
+    "mensagem": "Cripto bitcoin inserido na fila",
+    "modulo": "Módulo E",
+    "identificador": "bitcoin"
+  },
+  {
+    "timestamp": "20/01/2026 14:16:47.466",
+    "nivel": "Info",
+    "mensagem": "Cripto ethereum inserido na fila",
+    "modulo": "Módulo E",
+    "identificador": "ethereum"
+  },
+  {
+    "timestamp": "20/01/2026 14:16:47.875",
+    "nivel": "Info",
+    "mensagem": "Cripto tether inserido na fila",
+    "modulo": "Módulo E",
+    "identificador": "tether"
+  },
+  {
+    "timestamp": "20/01/2026 14:16:48.216",
+    "nivel": "Info",
+    "mensagem": "Cripto binancecoin inserido na fila",
+    "modulo": "Módulo E",
+    "identificador": "binancecoin"
+  },
+  {
+    "timestamp": "20/01/2026 14:16:48.563",
+    "nivel": "Info",
+    "mensagem": "Cripto ripple inserido na fila",
+    "modulo": "Módulo E",
+    "identificador": "ripple"
+  },
+  {
+    "timestamp": "20/01/2026 16:12:27.960",
+    "nivel": "Info",
+    "mensagem": "Cripto bitcoin inserido na fila",
+    "modulo": "Módulo E",
+    "identificador": "bitcoin"
+  },
+  {
+    "timestamp": "20/01/2026 16:12:28.357",
+    "nivel": "Info",
+    "mensagem": "Cripto ethereum inserido na fila",
+    "modulo": "Módulo E",
+    "identificador": "ethereum"
+  },
+  {
+    "timestamp": "20/01/2026 16:12:28.724",
+    "nivel": "Info",
+    "mensagem": "Cripto tether inserido na fila",
+    "modulo": "Módulo E",
+    "identificador": "tether"
+  },
+  {
+    "timestamp": "20/01/2026 16:12:29.111",
+    "nivel": "Info",
+    "mensagem": "Cripto binancecoin inserido na fila",
+    "modulo": "Módulo E",
+    "identificador": "binancecoin"
+  },
+  {
+    "timestamp": "20/01/2026 16:12:29.448",
+    "nivel": "Info",
+    "mensagem": "Cripto ripple inserido na fila",
+    "modulo": "Módulo E",
+    "identificador": "ripple"
+  }
+]
